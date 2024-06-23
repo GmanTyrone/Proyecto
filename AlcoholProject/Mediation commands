@@ -1,0 +1,47 @@
+# Exporting alpha diversity metrics to separate directories
+qiime tools export --input-path metrics-results/observed_features_vector.qza --output-path exported_alpha_diversity/observed_features
+qiime tools export --input-path metrics-results/chao1_vector.qza --output-path exported_alpha_diversity/chao1
+qiime tools export --input-path metrics-results/shannon_vector.qza --output-path exported_alpha_diversity/shannon
+qiime tools export --input-path metrics-results/simpson_vector.qza --output-path exported_alpha_diversity/simpson
+
+# Rename the exported files for clarity
+mv exported_alpha_diversity/observed_features/alpha-diversity.tsv exported_alpha_diversity/observed_features.tsv
+mv exported_alpha_diversity/chao1/alpha-diversity.tsv exported_alpha_diversity/chao1.tsv
+mv exported_alpha_diversity/shannon/alpha-diversity.tsv exported_alpha_diversity/shannon.tsv
+mv exported_alpha_diversity/simpson/alpha-diversity.tsv exported_alpha_diversity/simpson.tsv
+
+cd /tmp/exported_alpha_diversity
+rm -rf */
+for file in *.tsv; do
+    awk -F'\t' 'BEGIN {OFS=FS} NR==1 && $1=="" {$1="sample-id"} {print}' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+done
+
+
+cd /tmp
+# Export each beta diversity metric to its respective directory
+qiime tools export --input-path metrics-results/unweighted_unifrac_pcoa_matrix.qza --output-path exported_beta_diversity/unweighted_unifrac
+qiime tools export --input-path metrics-results/weighted_unifrac_pcoa_matrix.qza --output-path exported_beta_diversity/weighted_unifrac
+qiime tools export --input-path metrics-results/canberra_pcoa_matrix.qza --output-path exported_beta_diversity/canberra
+
+# Rename the exported files for clarity
+mv exported_beta_diversity/unweighted_unifrac/ordination.txt exported_beta_diversity/unweighted_unifrac_pcoa.tsv
+mv exported_beta_diversity/weighted_unifrac/ordination.txt exported_beta_diversity/weighted_unifrac_pcoa.tsv
+mv exported_beta_diversity/canberra/ordination.txt exported_beta_diversity/canberra_pcoa.tsv
+
+
+cd /tmp/exported_beta_diversity
+rm -rf */
+for file in *.tsv; do tail -n +10 "$file" > "$file.tmp" && mv "$file.tmp" "$file"; done
+for file in *.tsv; do tail -n +10 "$file" | head -n -4 > "$file.tmp" && mv "$file.tmp" "$file"; done
+
+pc_header="sample-id"
+for ((i=1; i<=310; i++)); do
+    pc_header+="\tPC$i"
+done
+
+for file in *.tsv; do
+    sed -i "1i\\$pc_header" "$file"
+done
+
+
+

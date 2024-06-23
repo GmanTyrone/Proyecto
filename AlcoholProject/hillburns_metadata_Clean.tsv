@@ -1,0 +1,311 @@
+ID	age	alcohol_amount	alcohol_how_much	bmi	coffee_amount	fruits_or_vegetables	grains	height_in	latitude	location	longitude	meats	nuts	other_neuro_problems	parkinson_disease	parkinson_disease_duration	race	sex	smoke100	ss_constipation	weight_lbs	yogurt	alcohol_frequent
+ERR1513669	79	2	2 drinks a day	28.34	2	No	No	63	33.7	Atlanta, GA	-84.3	No	No	No	No	NA	White	female	Yes	No	160	No	Yes
+ERR1513670	70	0	None	33.12	1	Yes	Yes	64	33.7	Atlanta, GA	-84.3	Yes	No	No	No	NA	White	female	Yes	No	193	No	No
+ERR1513671	79	0	None	32.28	0	Yes	Yes	66	33.7	Atlanta, GA	-84.3	Yes	Yes	No	No	NA	White	female	No	No	200	No	No
+ERR1513672	70	1	Less than 2 drinks a week	24.44	0	No	Yes	63	33.7	Atlanta, GA	-84.3	Yes	No	No	No	NA	White	female	No	No	138	No	Yes
+ERR1513673	76	2	2-6 drinks a week	25.06	1	Yes	No	73	33.7	Atlanta, GA	-84.3	No	Yes	No	No	NA	White	male	No	No	190	No	Yes
+ERR1513674	75	2	3 or more drinks a day	24.47	2	No	No	70.5	33.7	Atlanta, GA	-84.3	Yes	Yes	No	No	NA	White	male	Yes	No	173	No	Yes
+ERR1513675	73	2	1 drink a day	24.82	1	Yes	No	71	33.7	Atlanta, GA	-84.3	No	No	No	No	NA	White	male	Yes	No	178	No	Yes
+ERR1513676	88	0	None	31.17	2	Yes	No	61	33.7	Atlanta, GA	-84.3	No	No	No	No	NA	White	female	NA	No	165	No	No
+ERR1513677	76	2	1 drink a day	33.96	2	Yes	Yes	69	33.7	Atlanta, GA	-84.3	No	No	No	No	NA	White	male	Yes	No	230	No	Yes
+ERR1513678	74	0	None	25.44	0	Yes	No	66.5	33.7	Atlanta, GA	-84.3	Yes	Yes	No	No	NA	White	female	NA	No	160	No	No
+ERR1513680	76	0	None	26.04	2	Yes	Yes	72	33.7	Atlanta, GA	-84.3	No	Yes	No	No	NA	White	male	NA	No	192	Yes	No
+ERR1513681	68	1	Less than 2 drinks a week	25.4	1	Yes	No	69	33.7	Atlanta, GA	-84.3	Yes	No	No	No	NA	White	male	Yes	No	172	No	Yes
+ERR1513682	57	1	Less than 2 drinks a week	21.92	0	Yes	Yes	67	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	12	White	female	Yes	No	140	No	Yes
+ERR1513683	59	2	2-6 drinks a week	32.07	2	No	No	71	33.7	Atlanta, GA	-84.3	No	No	No	Yes	17	White	male	No	No	230	No	Yes
+ERR1513684	58	0	None	25.33	0	Yes	Yes	74.5	33.7	Atlanta, GA	-84.3	No	Yes	No	Yes	14	White	male	No	No	200	No	No
+ERR1513685	82	0	None	34.66	2	No	Yes	66.5	33.7	Atlanta, GA	-84.3	No	No	No	Yes	14	White	male	No	No	218	No	No
+ERR1513686	66	2	1 drink a day	27.44	1	Yes	Yes	66	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	10	White	male	Yes	No	170	No	Yes
+ERR1513688	56	0	None	19.53	0	No	Yes	63.5	33.7	Atlanta, GA	-84.3	No	Yes	No	Yes	18	White	female	No	No	112	No	No
+ERR1513689	75	0	None	22.87	1	Yes	Yes	71	33.7	Atlanta, GA	-84.3	Yes	Yes	No	Yes	14	White	male	No	No	164	No	No
+ERR1513690	82	0	None	20.03	1	NA	NA	66.5	33.7	Atlanta, GA	-84.3	NA	NA	No	Yes	10	White	male	No	No	126	NA	No
+ERR1513691	65	0	None	36.84	2	Yes	Yes	61	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	19	White	female	Yes	No	195	Yes	No
+ERR1513692	55	2	2-6 drinks a week	20.28	0	Yes	No	74	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	20	White	male	No	No	158	No	Yes
+ERR1513693	60	1	Less than 2 drinks a week	25.05	0	Yes	Yes	62	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	17	White	female	NA	No	137	No	Yes
+ERR1513695	71	0	None	29.02	0	Yes	Yes	73	33.7	Atlanta, GA	-84.3	Yes	Yes	No	Yes	10	White	male	NA	No	220	No	No
+ERR1513698	75	0	None	20.5	2	Yes	No	60	33.7	Atlanta, GA	-84.3	No	No	No	Yes	13	White	female	Yes	No	105	No	No
+ERR1513699	77	2	1 drink a day	31.47	1	No	No	66	33.7	Atlanta, GA	-84.3	No	No	No	Yes	9	White	male	NA	Yes	195	No	Yes
+ERR1513701	78	0	None	18.99	2	No	Yes	72	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	20	White	male	NA	No	140	No	No
+ERR1513702	52	2	2-6 drinks a week	23.97	2	Yes	No	68.5	33.7	Atlanta, GA	-84.3	No	Yes	No	Yes	16	White	male	No	No	160	No	Yes
+ERR1513703	53	2	2-6 drinks a week	27.92	0	Yes	Yes	66	33.7	Atlanta, GA	-84.3	Yes	Yes	No	Yes	16	White	female	No	No	173	No	Yes
+ERR1513704	59	0	None	31.79	2	Yes	Yes	73	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	10	White	male	Yes	No	241	No	No
+ERR1513705	65	0	None	32.61	2	No	Yes	64	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	9	White	female	NA	No	190	No	No
+ERR1513706	59	2	2 drinks a day	21.95	1	Yes	Yes	62	33.7	Atlanta, GA	-84.3	Yes	No	NA	Yes	10	White	female	Yes	No	120	No	Yes
+ERR1513709	59	0	None	33.9	1	Yes	No	72	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	9	White	male	No	No	250	No	No
+ERR1513710	55	1	Less than 2 drinks a week	29.41	2	No	No	70	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	10	White	male	No	No	205	No	Yes
+ERR1513711	67	1	Less than 2 drinks a week	18.47	0	Yes	Yes	73	33.7	Atlanta, GA	-84.3	No	No	No	Yes	15	White	male	No	No	140	No	Yes
+ERR1513712	47	0	None	25.1	0	Yes	Yes	69	33.7	Atlanta, GA	-84.3	No	No	No	Yes	9	White	male	NA	No	170	No	No
+ERR1513713	65	0	None	27.98	2	Yes	Yes	70	33.7	Atlanta, GA	-84.3	Yes	No	No	Yes	15	White	male	Yes	No	195	No	No
+ERR1513714	59	2	2-6 drinks a week	26.38	2	Yes	Yes	73	33.7	Atlanta, GA	-84.3	No	No	No	Yes	7	White	male	No	Yes	200	No	Yes
+ERR1513715	74	1	Less than 2 drinks a week	24.68	2	Yes	Yes	71	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	Yes	No	177	No	Yes
+ERR1513716	77	0	None	26.44	0	No	Yes	72	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	195	No	No
+ERR1513717	72	0	None	24.96	2	Yes	Yes	65	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	Yes	No	150	No	No
+ERR1513718	59	1	Less than 2 drinks a week	37.59	2	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	240	No	Yes
+ERR1513719	86	0	None	24.21	2	Yes	Yes	66	42.6	Albany, NY	-73.7	Yes	No	Yes	No	NA	White	male	No	No	150	No	No
+ERR1513721	74	1	Less than 2 drinks a week	23.43	0	Yes	Yes	61	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	No	No	124	No	Yes
+ERR1513722	69	1	Less than 2 drinks a week	25.86	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	146	No	Yes
+ERR1513723	87	2	1 drink a day	26.44	2	No	No	72	42.6	Albany, NY	-73.7	No	Yes	No	No	NA	White	male	No	No	195	No	Yes
+ERR1513724	72	0	None	26.5	0	Yes	Yes	71	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	No	NA	190	No	No
+ERR1513725	62	0	None	41.81	0	No	Yes	68	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	275	No	No
+ERR1513726	84	0	None	32.87	1	Yes	Yes	61	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	NA	Yes	174	Yes	No
+ERR1513727	76	0	None	28.69	2	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	No	No	200	No	No
+ERR1513728	70	0	None	28.59	1	No	Yes	71	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	Yes	No	205	No	No
+ERR1513729	82	1	Less than 2 drinks a week	25.82	2	Yes	Yes	66	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	NA	Yes	160	No	Yes
+ERR1513730	73	0	None	30.23	2	Yes	Yes	61	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	Yes	No	160	No	No
+ERR1513731	74	0	None	43.04	2	Yes	No	70	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	Yes	No	300	No	No
+ERR1513732	76	0	None	22.14	2	Yes	Yes	63	42.6	Albany, NY	-73.7	No	Yes	No	No	NA	White	female	NA	No	125	Yes	No
+ERR1513733	60	1	Less than 2 drinks a week	23.13	0	Yes	No	65	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	NA	NA	139	No	Yes
+ERR1513734	65	1	Less than 2 drinks a week	27.5	2	Yes	Yes	75	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	Yes	No	220	No	Yes
+ERR1513735	72	1	Less than 2 drinks a week	23.79	2	Yes	No	65	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	No	No	143	No	Yes
+ERR1513736	66	0	None	37.65	2	Yes	No	71	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	270	No	No
+ERR1513737	70	2	2-6 drinks a week	18.02	2	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	105	No	Yes
+ERR1513738	72	2	2-6 drinks a week	18.95	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	107	No	Yes
+ERR1513739	81	0	None	22.63	0	Yes	Yes	65	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	male	NA	No	136	Yes	No
+ERR1513740	57	0	None	40.93	2	No	Yes	65	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	Yes	No	246	No	No
+ERR1513741	55	1	Less than 2 drinks a week	23.76	0	Yes	Yes	62.5	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	NA	No	132	Yes	Yes
+ERR1513742	60	1	Less than 2 drinks a week	42.91	0	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	250	No	Yes
+ERR1513743	71	1	Less than 2 drinks a week	26.57	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	150	No	Yes
+ERR1513744	73	2	2-6 drinks a week	30.24	2	Yes	Yes	67.5	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	NA	No	196	No	Yes
+ERR1513745	69	0	None	34.17	0	No	Yes	71	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	245	No	No
+ERR1513746	75	1	Less than 2 drinks a week	25.82	0	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	male	NA	No	180	No	Yes
+ERR1513748	65	2	2 drinks a day	25.66	2	Yes	Yes	71	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	No	No	184	No	Yes
+ERR1513749	66	2	2-6 drinks a week	35.87	2	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	Yes	No	250	No	Yes
+ERR1513750	69	2	2 drinks a day	24.27	2	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	155	No	Yes
+ERR1513751	67	1	Less than 2 drinks a week	23.77	2	Yes	No	62	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	130	No	Yes
+ERR1513752	76	0	None	35.94	2	Yes	No	72	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	265	No	No
+ERR1513753	60	2	2-6 drinks a week	NA	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	Yes	No	NA	No	Yes
+ERR1513754	82	1	Less than 2 drinks a week	27.19	0	Yes	Yes	71	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	No	No	195	No	Yes
+ERR1513755	71	0	None	23.24	1	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	No	No	162	No	No
+ERR1513756	81	0	None	27.46	2	Yes	No	64	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	NA	No	160	No	No
+ERR1513757	70	1	Less than 2 drinks a week	29.95	2	Yes	No	65	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	180	No	Yes
+ERR1513758	64	2	2 drinks a day	21.79	2	Yes	Yes	63	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	NA	No	123	No	Yes
+ERR1513759	60	2	2 drinks a day	25.74	2	Yes	No	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	150	No	Yes
+ERR1513760	70	1	Less than 2 drinks a week	25.68	1	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	No	No	145	Yes	Yes
+ERR1513761	59	0	None	29.62	2	Yes	No	65	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	178	No	No
+ERR1513762	69	2	3 or more drinks a day	25.1	1	Yes	Yes	71	42.6	Albany, NY	-73.7	Yes	Yes	Yes	No	NA	White	male	No	No	180	No	Yes
+ERR1513763	83	1	Less than 2 drinks a week	32	1	Yes	Yes	62	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	No	No	175	No	Yes
+ERR1513764	70	1	Less than 2 drinks a week	29.41	2	Yes	No	70	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	NA	No	205	No	Yes
+ERR1513765	67	2	1 drink a day	20.8	2	Yes	No	65	42.6	Albany, NY	-73.7	No	Yes	No	No	NA	White	female	No	No	125	No	Yes
+ERR1513766	69	1	Less than 2 drinks a week	29.26	2	Yes	Yes	62	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	NA	No	160	No	Yes
+ERR1513767	57	0	None	39.13	0	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	NA	No	228	No	No
+ERR1513768	86	1	Less than 2 drinks a week	26.62	2	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	male	NA	No	170	No	Yes
+ERR1513769	57	1	Less than 2 drinks a week	39.06	1	Yes	No	67.75	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	No	No	255	No	Yes
+ERR1513770	78	1	Less than 2 drinks a week	29.18	0	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	170	No	Yes
+ERR1513771	81	2	2 drinks a day	23.73	1	No	No	72	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	male	Yes	No	175	No	Yes
+ERR1513772	65	1	Less than 2 drinks a week	20.19	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	Yes	No	No	NA	White	female	NA	No	114	No	Yes
+ERR1513774	68	1	Less than 2 drinks a week	29.18	2	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	170	No	Yes
+ERR1513775	64	1	Less than 2 drinks a week	21.79	2	Yes	Yes	66	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	No	No	135	No	Yes
+ERR1513776	69	1	Less than 2 drinks a week	32.74	0	Yes	No	62	42.6	Albany, NY	-73.7	Yes	No	No	No	NA	White	female	Yes	No	179	No	Yes
+ERR1513777	62	1	Less than 2 drinks a week	22.96	0	Yes	Yes	65	42.6	Albany, NY	-73.7	No	No	No	No	NA	White	female	No	No	138	No	Yes
+ERR1513778	51	0	None	40.17	1	No	No	70	42.6	Albany, NY	-73.7	No	No	NA	Yes	14	White	male	NA	No	280	No	No
+ERR1513781	63	0	None	31.01	0	Yes	Yes	69	42.6	Albany, NY	-73.7	Yes	No	No	Yes	15	White	male	No	No	210	No	No
+ERR1513782	88	0	None	18.29	1	Yes	Yes	62	42.6	Albany, NY	-73.7	Yes	No	No	Yes	24	White	female	NA	No	100	No	No
+ERR1513783	75	1	Less than 2 drinks a week	24.84	2	Yes	Yes	59	42.6	Albany, NY	-73.7	No	No	No	Yes	23	White	female	No	No	123	No	Yes
+ERR1513784	85	1	Less than 2 drinks a week	26.57	2	Yes	Yes	64	42.6	Albany, NY	-73.7	Yes	No	No	Yes	21	White	male	No	No	154.8	No	Yes
+ERR1513785	75	1	Less than 2 drinks a week	24.81	2	Yes	Yes	69	42.6	Albany, NY	-73.7	Yes	No	No	Yes	13	White	male	No	No	168	No	Yes
+ERR1513786	77	0	None	26.45	2	Yes	No	61	42.6	Albany, NY	-73.7	Yes	No	No	Yes	20	White	female	NA	No	140	No	No
+ERR1513787	70	0	None	26.5	1	Yes	No	71	42.6	Albany, NY	-73.7	No	No	No	Yes	20	White	male	NA	No	190	Yes	No
+ERR1513788	60	2	2-6 drinks a week	25.68	0	No	Yes	74	42.6	Albany, NY	-73.7	No	No	No	Yes	15	White	male	Yes	No	200	No	Yes
+ERR1513789	71	1	Less than 2 drinks a week	25.11	2	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	No	No	Yes	19	White	male	Yes	Yes	175	No	Yes
+ERR1513790	71	0	None	22.47	2	Yes	Yes	74	42.6	Albany, NY	-73.7	No	Yes	No	Yes	15	White	male	No	Yes	175	No	No
+ERR1513793	78	2	2-6 drinks a week	21.46	1	Yes	Yes	65	42.6	Albany, NY	-73.7	No	Yes	NA	Yes	17	White	male	Yes	No	129	No	Yes
+ERR1513795	85	0	None	26.15	1	Yes	No	68	42.6	Albany, NY	-73.7	Yes	No	No	Yes	18	White	male	Yes	No	172	Yes	No
+ERR1513796	62	0	None	23.63	2	Yes	No	69	42.6	Albany, NY	-73.7	No	Yes	No	Yes	15	White	male	Yes	No	160	No	No
+ERR1513797	81	0	None	30.13	2	Yes	No	70	42.6	Albany, NY	-73.7	Yes	No	No	Yes	21	White	male	Yes	Yes	210	No	No
+ERR1513798	66	2	2-6 drinks a week	18.65	1	Yes	Yes	62	42.6	Albany, NY	-73.7	Yes	No	No	Yes	23	White	female	Yes	No	102	No	Yes
+ERR1513799	74	2	2-6 drinks a week	21.23	2	No	Yes	70	42.6	Albany, NY	-73.7	No	No	No	Yes	28	White	male	Yes	No	148	No	Yes
+ERR1513800	67	0	None	31.64	0	Yes	Yes	60	42.6	Albany, NY	-73.7	Yes	No	No	Yes	23	White	female	No	No	162	No	No
+ERR1513801	86	0	None	23.67	2	Yes	Yes	70	42.6	Albany, NY	-73.7	No	No	No	Yes	14	White	male	No	No	165	No	No
+ERR1513802	74	0	None	19.8	2	Yes	Yes	62.5	42.6	Albany, NY	-73.7	Yes	No	No	Yes	12	White	female	NA	No	110	No	No
+ERR1513803	63	0	None	14.64	NA	NA	NA	65	42.6	Albany, NY	-73.7	NA	NA	No	Yes	17	White	female	No	No	88	NA	No
+ERR1513804	69	2	2-6 drinks a week	27.25	1	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	Yes	21	White	male	Yes	Yes	174	No	Yes
+ERR1513805	71	1	Less than 2 drinks a week	30.51	1	No	Yes	72	42.6	Albany, NY	-73.7	Yes	No	No	Yes	29	White	male	Yes	No	225	Yes	Yes
+ERR1513806	70	0	None	18.24	0	Yes	Yes	68	42.6	Albany, NY	-73.7	Yes	No	No	Yes	21	White	female	No	No	120	No	No
+ERR1513807	72	0	None	25.1	2	Yes	Yes	69	42.6	Albany, NY	-73.7	No	No	No	Yes	17	White	male	Yes	No	170	No	No
+ERR1513808	61	2	2-6 drinks a week	24.4	2	No	Yes	71	42.6	Albany, NY	-73.7	No	No	No	Yes	13	White	male	NA	No	175	Yes	Yes
+ERR1513810	74	1	Less than 2 drinks a week	27.61	1	Yes	No	71	42.6	Albany, NY	-73.7	Yes	Yes	No	Yes	14	White	male	NA	No	198	No	Yes
+ERR1513811	68	2	1 drink a day	30.51	2	No	Yes	72	42.6	Albany, NY	-73.7	Yes	No	No	Yes	20	White	male	Yes	No	225	No	Yes
+ERR1513812	56	0	None	37.49	0	No	Yes	74	42.6	Albany, NY	-73.7	No	No	No	Yes	14	White	male	No	No	292	No	No
+ERR1513813	60	1	Less than 2 drinks a week	30.47	0	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	No	No	Yes	22	White	male	NA	No	172	No	Yes
+ERR1513815	73	2	2-6 drinks a week	30.54	2	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	Yes	25	White	male	NA	Yes	195	No	Yes
+ERR1513816	76	1	Less than 2 drinks a week	20.5	2	Yes	Yes	71	42.6	Albany, NY	-73.7	Yes	No	No	Yes	20	White	male	No	No	147	No	Yes
+ERR1513817	70	2	1 drink a day	24.01	1	Yes	No	73	42.6	Albany, NY	-73.7	Yes	No	No	Yes	27	White	male	Yes	No	182	No	Yes
+ERR1513818	51	1	Less than 2 drinks a week	43.77	0	Yes	No	64	42.6	Albany, NY	-73.7	No	Yes	No	Yes	11	White	female	No	No	255	No	Yes
+ERR1513819	72	1	Less than 2 drinks a week	20.12	0	Yes	Yes	62	42.6	Albany, NY	-73.7	No	Yes	No	Yes	13	White	female	No	No	110	Yes	Yes
+ERR1513820	77	2	2 drinks a day	30.47	2	Yes	Yes	63	42.6	Albany, NY	-73.7	Yes	No	No	Yes	13	White	male	Yes	No	172	No	Yes
+ERR1513821	73	0	None	24.39	0	No	Yes	74	42.6	Albany, NY	-73.7	No	No	NA	Yes	32	White	male	NA	No	190	No	No
+ERR1513823	56	0	None	37.24	2	Yes	No	64	42.6	Albany, NY	-73.7	Yes	No	No	Yes	15	White	female	No	No	217	Yes	No
+ERR1513824	62	0	None	24.05	2	Yes	Yes	66	42.6	Albany, NY	-73.7	Yes	No	No	Yes	17	White	female	No	No	149	No	No
+ERR1513825	68	2	3 or more drinks a day	31.6	2	No	No	69	42.6	Albany, NY	-73.7	No	Yes	No	Yes	26	White	male	Yes	No	214	No	Yes
+ERR1513826	78	2	2-6 drinks a week	19.37	0	No	Yes	66	42.6	Albany, NY	-73.7	NA	No	No	Yes	12	White	male	Yes	No	120	No	Yes
+ERR1513827	82	2	2-6 drinks a week	25.06	2	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	No	No	Yes	15	White	male	No	No	160	No	Yes
+ERR1513828	67	1	Less than 2 drinks a week	22.59	2	Yes	No	66	42.6	Albany, NY	-73.7	Yes	No	No	Yes	23	White	male	Yes	No	140	No	Yes
+ERR1513829	54	0	None	22.24	0	Yes	Yes	70	42.6	Albany, NY	-73.7	No	No	No	Yes	14	White	male	No	No	155	No	No
+ERR1513830	61	0	None	26.96	2	Yes	Yes	74	42.6	Albany, NY	-73.7	Yes	Yes	No	Yes	13	White	male	No	No	210	No	No
+ERR1513831	63	0	None	28.79	2	Yes	Yes	69	42.6	Albany, NY	-73.7	Yes	No	No	Yes	13	White	male	Yes	No	195	No	No
+ERR1513832	60	1	Less than 2 drinks a week	30.66	1	Yes	Yes	66	42.6	Albany, NY	-73.7	No	No	NA	Yes	18	More Than One Race	female	Yes	Yes	190	No	Yes
+ERR1513833	81	1	Less than 2 drinks a week	22.52	0	Yes	No	70	42.6	Albany, NY	-73.7	No	Yes	No	Yes	16	White	female	No	No	157	No	Yes
+ERR1513834	58	2	2-6 drinks a week	19.76	2	Yes	Yes	68	42.6	Albany, NY	-73.7	No	No	No	Yes	12	White	female	Yes	No	130	No	Yes
+ERR1513835	74	0	None	26.81	0	Yes	Yes	59.5	42.6	Albany, NY	-73.7	Yes	No	Yes	Yes	20	White	female	No	No	135	No	No
+ERR1513836	57	1	Less than 2 drinks a week	28.35	2	Yes	Yes	62	42.6	Albany, NY	-73.7	Yes	No	No	Yes	19	White	female	No	No	155	No	Yes
+ERR1513837	68	1	Less than 2 drinks a week	29.53	0	Yes	No	74	42.6	Albany, NY	-73.7	Yes	No	No	Yes	13	White	male	Yes	No	230	No	Yes
+ERR1513838	79	0	None	34.33	1	No	Yes	59	42.6	Albany, NY	-73.7	Yes	No	No	Yes	11	White	female	NA	No	170	No	No
+ERR1513839	55	0	None	33.47	2	No	No	64	42.6	Albany, NY	-73.7	No	No	No	Yes	12	White	female	NA	Yes	195	No	No
+ERR1513840	76	0	None	30.68	0	Yes	Yes	71	42.6	Albany, NY	-73.7	No	No	No	Yes	11	White	male	Yes	No	220	No	No
+ERR1513841	72	2	1 drink a day	19.63	1	Yes	No	65	42.6	Albany, NY	-73.7	Yes	No	No	Yes	10	White	female	Yes	No	118	No	Yes
+ERR1513842	44	0	None	40.44	1	Yes	Yes	71	42.6	Albany, NY	-73.7	Yes	No	No	Yes	14	White	male	Yes	NA	290	No	No
+ERR1513843	83	0	None	22.89	1	Yes	No	69	42.6	Albany, NY	-73.7	No	No	No	Yes	14	White	male	No	No	155	No	No
+ERR1513844	55	2	2-6 drinks a week	27.38	2	Yes	Yes	76	42.6	Albany, NY	-73.7	Yes	No	No	Yes	9	White	male	Yes	Yes	225	No	Yes
+ERR1513846	76	0	None	30.57	0	No	Yes	69	42.6	Albany, NY	-73.7	No	No	NA	Yes	15	White	male	No	No	207	No	No
+ERR1513847	57	2	2 drinks a day	30.13	1	Yes	Yes	70	42.6	Albany, NY	-73.7	Yes	No	No	Yes	9	White	male	NA	No	210	No	Yes
+ERR1513849	69	2	2-6 drinks a week	30.18	2	Yes	Yes	62	42.6	Albany, NY	-73.7	No	Yes	No	Yes	9	White	female	Yes	No	165	No	Yes
+ERR1513850	78	0	None	17.71	0	No	No	63	42.6	Albany, NY	-73.7	No	No	No	Yes	18	White	female	No	No	100	No	No
+ERR1513851	59	0	None	23.49	2	Yes	Yes	67	42.6	Albany, NY	-73.7	No	No	No	Yes	15	White	male	Yes	No	150	No	No
+ERR1513853	81	1	Less than 2 drinks a week	30.51	1	Yes	Yes	72	42.6	Albany, NY	-73.7	No	Yes	No	Yes	13	White	male	Yes	No	225	No	Yes
+ERR1513854	72	0	None	30.85	1	Yes	No	70	42.6	Albany, NY	-73.7	No	No	No	Yes	9	White	male	Yes	Yes	215	No	No
+ERR1513855	71	1	Less than 2 drinks a week	34.94	2	Yes	Yes	65	42.6	Albany, NY	-73.7	Yes	No	No	Yes	9	White	male	NA	No	210	No	Yes
+ERR1513856	69	2	1 drink a day	28.13	2	Yes	Yes	68	42.6	Albany, NY	-73.7	No	No	No	Yes	10	White	male	No	No	185	Yes	Yes
+ERR1513857	70	0	None	31.56	2	Yes	Yes	70	42.6	Albany, NY	-73.7	No	No	No	Yes	12	White	male	Yes	No	220	No	No
+ERR1513858	78	0	None	20.12	0	Yes	Yes	62	42.6	Albany, NY	-73.7	Yes	No	NA	Yes	35	White	female	No	Yes	110	No	No
+ERR1513859	73	0	None	22.67	0	Yes	Yes	63	42.6	Albany, NY	-73.7	No	Yes	No	Yes	7	White	female	No	Yes	128	No	No
+ERR1513860	62	0	None	30.69	1	Yes	Yes	67	42.6	Albany, NY	-73.7	Yes	Yes	No	Yes	7	White	male	No	No	196	No	No
+ERR1513861	70	2	2-6 drinks a week	22.8	0	Yes	Yes	74.5	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	14	White	male	Yes	No	180	No	Yes
+ERR1513862	73	0	None	23.73	0	Yes	Yes	72	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	9	White	male	No	No	175	NA	No
+ERR1513863	68	1	Less than 2 drinks a week	26.63	0	Yes	Yes	66	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	2	White	male	No	No	165	No	Yes
+ERR1513864	67	0	None	24.61	1	Yes	No	70.5	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	9	White	male	NA	No	174	Yes	No
+ERR1513865	58	0	None	22.81	2	Yes	No	64.5	47.6	Seattle, WA	-122.3	No	No	No	Yes	5	White	female	No	No	135	No	No
+ERR1513866	68	1	Less than 2 drinks a week	20.55	2	Yes	No	63	47.6	Seattle, WA	-122.3	No	No	No	Yes	6	White	female	Yes	No	116	No	Yes
+ERR1513867	64	1	Less than 2 drinks a week	23.33	2	Yes	No	69	47.6	Seattle, WA	-122.3	No	Yes	Yes	Yes	14	White	female	Yes	No	158	No	Yes
+ERR1513869	65	1	Less than 2 drinks a week	18.33	0	Yes	Yes	61	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	24	White	female	No	No	97	No	Yes
+ERR1513870	70	2	2-6 drinks a week	25.68	1	No	Yes	74	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	3	White	male	NA	No	200	NA	Yes
+ERR1513871	69	1	Less than 2 drinks a week	27.12	1	Yes	Yes	72	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	14	White	male	No	No	200	No	Yes
+ERR1513872	65	0	None	25.06	0	Yes	Yes	73	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	12	White	male	No	No	190	No	No
+ERR1513873	69	2	2-6 drinks a week	27.88	2	Yes	No	64.5	47.6	Seattle, WA	-122.3	No	No	NA	Yes	3	White	female	Yes	No	165	No	Yes
+ERR1513874	69	2	2 drinks a day	25.82	2	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	16	White	male	Yes	Yes	180	No	Yes
+ERR1513875	78	0	None	24.12	1	Yes	No	67	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	15	White	male	No	No	154	NA	No
+ERR1513876	70	0	None	31.5	2	Yes	No	59	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	19	White	female	No	No	156	No	No
+ERR1513877	67	1	Less than 2 drinks a week	21.79	0	No	No	66	47.6	Seattle, WA	-122.3	No	No	No	Yes	5	White	female	Yes	Yes	135	No	Yes
+ERR1513878	58	2	3 or more drinks a day	24.33	2	No	Yes	68	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	16	White	male	Yes	No	160	No	Yes
+ERR1513879	68	1	Less than 2 drinks a week	31.87	1	No	No	72	47.6	Seattle, WA	-122.3	No	No	No	Yes	19	White	male	Yes	Yes	235	No	Yes
+ERR1513880	61	0	None	22.48	0	Yes	No	64	47.6	Seattle, WA	-122.3	No	No	No	Yes	33	White	female	No	No	131	No	No
+ERR1513881	73	1	Less than 2 drinks a week	18.46	0	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	11	White	male	Yes	No	125	No	Yes
+ERR1513882	65	2	2-6 drinks a week	26.62	2	Yes	No	67	47.6	Seattle, WA	-122.3	No	No	No	Yes	6	White	female	Yes	No	170	No	Yes
+ERR1513883	70	2	2-6 drinks a week	25.84	1	No	No	67	47.6	Seattle, WA	-122.3	No	No	No	Yes	10	White	male	No	No	165	No	Yes
+ERR1513884	69	0	None	32.48	0	No	Yes	69	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	14	White	male	No	No	220	No	No
+ERR1513885	78	2	2-6 drinks a week	31.19	2	No	NA	72	47.6	Seattle, WA	-122.3	No	No	NA	Yes	6	White	male	Yes	No	230	No	Yes
+ERR1513886	58	0	None	20.33	0	Yes	Yes	66	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	3	White	female	Yes	No	126	Yes	No
+ERR1513887	57	2	2 drinks a day	26.25	1	Yes	Yes	73	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	16	White	male	No	No	199	No	Yes
+ERR1513888	67	2	2-6 drinks a week	25.12	2	Yes	Yes	75	47.6	Seattle, WA	-122.3	No	No	NA	Yes	2	White	male	Yes	No	201	No	Yes
+ERR1513889	78	2	1 drink a day	30.51	0	Yes	No	72	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	19	White	male	No	No	225	No	Yes
+ERR1513890	71	1	Less than 2 drinks a week	25.42	0	No	NA	74	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	4	White	male	No	Yes	198	No	Yes
+ERR1513891	67	0	None	17.68	0	Yes	Yes	62.75	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	24	White	female	No	No	99	No	No
+ERR1513892	70	1	Less than 2 drinks a week	NA	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	20	White	female	No	No	NA	No	Yes
+ERR1513894	78	2	2-6 drinks a week	20.37	2	No	No	70	47.6	Seattle, WA	-122.3	No	No	No	Yes	3	White	male	Yes	No	142	No	Yes
+ERR1513896	57	1	Less than 2 drinks a week	34.33	0	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	9	White	female	No	No	200	No	Yes
+ERR1513898	52	1	Less than 2 drinks a week	22.24	0	Yes	No	70	47.6	Seattle, WA	-122.3	No	No	No	Yes	10	White	female	Yes	No	155	No	Yes
+ERR1513899	67	1	Less than 2 drinks a week	30.18	1	Yes	No	62	47.6	Seattle, WA	-122.3	Yes	No	NA	Yes	17	White	female	No	No	165	No	Yes
+ERR1513901	65	0	None	26.58	0	No	No	69	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	9	White	male	No	No	180	No	No
+ERR1513902	75	2	1 drink a day	18.02	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	No	No	No	Yes	16	White	female	No	No	105	No	Yes
+ERR1513903	70	1	Less than 2 drinks a week	22.96	1	Yes	No	65	47.6	Seattle, WA	-122.3	No	No	No	Yes	2	White	female	No	No	138	No	Yes
+ERR1513904	58	2	2-6 drinks a week	21.3	1	Yes	Yes	65	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	1	White	female	No	No	128	Yes	Yes
+ERR1513905	54	1	Less than 2 drinks a week	31.56	1	Yes	No	70	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	10	White	male	Yes	No	220	No	Yes
+ERR1513906	88	0	None	25.09	2	No	Yes	68	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	18	White	male	No	Yes	165	No	No
+ERR1513907	76	2	2-6 drinks a week	NA	1	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	14	White	male	No	No	NA	No	Yes
+ERR1513908	59	1	Less than 2 drinks a week	22.71	2	Yes	No	67	47.6	Seattle, WA	-122.3	No	No	No	Yes	15	White	female	No	No	145	No	Yes
+ERR1513909	64	0	None	20.8	0	Yes	No	65	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	3	White	female	Yes	No	125	No	No
+ERR1513910	67	1	Less than 2 drinks a week	27.44	0	Yes	Yes	73	47.6	Seattle, WA	-122.3	Yes	Yes	NA	Yes	28	White	male	Yes	Yes	208	No	Yes
+ERR1513911	63	2	1 drink a day	22.24	0	Yes	No	70	47.6	Seattle, WA	-122.3	No	No	No	Yes	13	White	male	NA	No	155	No	Yes
+ERR1513912	51	0	None	38.57	2	No	No	66	47.6	Seattle, WA	-122.3	No	No	No	Yes	11	White	female	No	No	239	No	No
+ERR1513913	85	2	2-6 drinks a week	25.6	1	Yes	Yes	62	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	4	White	female	No	No	140	No	Yes
+ERR1513914	88	0	None	27.88	2	Yes	Yes	67	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	17	White	male	No	No	178	No	No
+ERR1513916	71	2	2 drinks a day	24.12	2	Yes	Yes	75	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	3	White	male	Yes	No	193	No	Yes
+ERR1513917	65	2	2-6 drinks a week	33.22	1	No	Yes	72	47.6	Seattle, WA	-122.3	No	No	No	Yes	9	White	male	Yes	No	245	No	Yes
+ERR1513918	70	2	2 drinks a day	28.06	2	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	4	White	male	Yes	No	190	No	Yes
+ERR1513919	70	0	None	26.54	1	No	No	70	47.6	Seattle, WA	-122.3	No	No	No	Yes	16	White	male	No	No	185	No	No
+ERR1513921	72	2	1 drink a day	33.22	2	Yes	Yes	72	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	4	White	male	Yes	No	245	No	Yes
+ERR1513922	75	2	2-6 drinks a week	31.32	2	Yes	No	67	47.6	Seattle, WA	-122.3	No	No	NA	Yes	21	White	male	No	No	200	No	Yes
+ERR1513923	84	1	Less than 2 drinks a week	22.14	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	8	White	female	No	No	129	No	Yes
+ERR1513924	63	2	2-6 drinks a week	24.03	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	24	White	female	No	No	140	No	Yes
+ERR1513925	52	1	Less than 2 drinks a week	29.53	1	Yes	Yes	69	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	15	White	male	Yes	No	200	No	Yes
+ERR1513926	72	1	Less than 2 drinks a week	25.85	0	Yes	Yes	68	47.6	Seattle, WA	-122.3	No	Yes	No	Yes	16	White	male	No	No	170	No	Yes
+ERR1513927	80	2	2 drinks a day	18.6	2	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	5	White	male	No	No	126	No	Yes
+ERR1513928	77	0	None	26.58	0	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	20	White	male	No	No	180	No	No
+ERR1513929	71	1	Less than 2 drinks a week	23.48	1	Yes	Yes	77	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	12	White	male	No	No	198	No	Yes
+ERR1513930	68	0	None	19.34	2	Yes	Yes	65.5	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	10	White	female	Yes	No	118	No	No
+ERR1513931	68	2	2 drinks a day	27.8	1	Yes	Yes	72	47.6	Seattle, WA	-122.3	Yes	Yes	No	Yes	13	White	male	Yes	No	205	No	Yes
+ERR1513932	65	0	None	31.56	2	No	No	70	47.6	Seattle, WA	-122.3	No	No	No	Yes	12	White	male	Yes	Yes	220	Yes	No
+ERR1513933	71	2	2 drinks a day	24.41	2	Yes	Yes	72	47.6	Seattle, WA	-122.3	No	No	No	Yes	11	White	male	No	No	180	No	Yes
+ERR1513934	75	1	Less than 2 drinks a week	40.97	2	Yes	Yes	63.5	47.6	Seattle, WA	-122.3	No	Yes	NA	Yes	24	White	female	Yes	NA	235	Yes	Yes
+ERR1513935	74	1	Less than 2 drinks a week	35.73	1	Yes	No	68	47.6	Seattle, WA	-122.3	No	No	No	Yes	16	White	male	No	Yes	235	No	Yes
+ERR1513937	69	1	Less than 2 drinks a week	39.6	2	No	No	72	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	35	White	male	Yes	No	292	No	Yes
+ERR1513938	64	1	Less than 2 drinks a week	NA	1	Yes	Yes	74	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	12	White	male	No	Yes	NA	No	Yes
+ERR1513939	77	1	Less than 2 drinks a week	45.64	2	Yes	Yes	59	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	11	White	female	No	No	226	No	Yes
+ERR1513940	58	0	None	23.43	0	Yes	Yes	74	47.6	Seattle, WA	-122.3	No	No	No	Yes	10	White	male	No	No	182.5	No	No
+ERR1513942	64	0	None	19.52	1	Yes	Yes	71	47.6	Seattle, WA	-122.3	No	No	Yes	Yes	7	White	male	No	No	140	No	No
+ERR1513943	65	0	None	26.62	2	Yes	Yes	67	47.6	Seattle, WA	-122.3	No	No	No	Yes	15	White	male	No	No	170	Yes	No
+ERR1513944	70	2	2-6 drinks a week	24.03	1	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	6	White	male	Yes	No	140	No	Yes
+ERR1513946	78	2	2-6 drinks a week	24.74	2	Yes	No	69.5	47.6	Seattle, WA	-122.3	No	No	No	Yes	7	White	male	Yes	No	170	No	Yes
+ERR1513947	82	2	1 drink a day	25.82	2	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	5	White	male	Yes	No	180	No	Yes
+ERR1513948	94	2	2-6 drinks a week	25.06	2	Yes	Yes	67	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	9	White	male	Yes	Yes	160	Yes	Yes
+ERR1513949	71	1	Less than 2 drinks a week	27.21	2	Yes	No	68	47.6	Seattle, WA	-122.3	No	No	No	Yes	25	White	male	Yes	No	179	No	Yes
+ERR1513950	65	0	None	43.18	0	Yes	Yes	68	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	10	White	male	No	Yes	284	No	No
+ERR1513951	70	1	Less than 2 drinks a week	NA	2	No	Yes	67	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	10	White	male	Yes	Yes	NA	No	Yes
+ERR1513954	58	2	2-6 drinks a week	25.6	1	No	No	62	47.6	Seattle, WA	-122.3	No	No	No	Yes	10	Black or African American	female	Yes	No	140	No	Yes
+ERR1513955	60	2	2-6 drinks a week	25.03	2	Yes	Yes	74	47.6	Seattle, WA	-122.3	Yes	No	No	Yes	9	White	male	No	Yes	195	No	Yes
+ERR1513956	68	1	Less than 2 drinks a week	35.44	2	Yes	Yes	69	47.6	Seattle, WA	-122.3	No	Yes	Yes	Yes	4	White	male	Yes	No	240	No	Yes
+ERR1513957	68	1	Less than 2 drinks a week	21.41	1	No	No	69	47.6	Seattle, WA	-122.3	No	No	No	Yes	18	White	male	No	Yes	145	No	Yes
+ERR1513958	70	2	2 drinks a day	NA	2	Yes	No	71	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	Yes	No	NA	No	Yes
+ERR1513959	57	0	None	28.34	0	Yes	Yes	61	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	No	No	150	No	No
+ERR1513960	73	0	None	24.33	2	Yes	Yes	68	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	No	No	160	NA	No
+ERR1513961	67	0	None	24.48	0	Yes	Yes	62.5	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	No	No	136	No	No
+ERR1513962	57	0	None	23.01	1	Yes	No	71	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	male	No	No	165	No	No
+ERR1513963	69	0	None	36.9	2	Yes	No	64	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	Yes	No	215	No	No
+ERR1513965	67	2	1 drink a day	24.03	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	No	No	140	No	Yes
+ERR1513966	76	1	Less than 2 drinks a week	22.31	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	Yes	No	130	Yes	Yes
+ERR1513967	36	2	2 drinks a day	23.75	2	Yes	Yes	74	47.6	Seattle, WA	-122.3	Yes	No	Yes	No	NA	White	male	No	No	185	No	Yes
+ERR1513968	77	1	Less than 2 drinks a week	27.43	0	Yes	Yes	62	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	No	No	150	No	Yes
+ERR1513969	73	1	Less than 2 drinks a week	24.22	0	Yes	Yes	63.75	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	No	No	140	No	Yes
+ERR1513970	58	0	None	30.34	2	No	Yes	73	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	Yes	No	230	No	No
+ERR1513971	79	2	3 or more drinks a day	21.61	0	Yes	Yes	67	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	NA	No	138	No	Yes
+ERR1513973	65	2	2 drinks a day	24.36	2	No	No	69	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	male	Yes	No	165	No	Yes
+ERR1513974	62	2	2 drinks a day	33.72	2	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	Yes	Yes	No	NA	White	male	Yes	No	235	No	Yes
+ERR1513975	69	0	None	28.34	2	Yes	No	63	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	Yes	No	160	No	No
+ERR1513976	64	1	Less than 2 drinks a week	22.8	1	Yes	No	68	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	male	Yes	No	150	No	Yes
+ERR1513977	88	1	Less than 2 drinks a week	23.11	2	Yes	NA	68	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	152	NA	Yes
+ERR1513978	77	0	None	34.21	0	Yes	Yes	68	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	Yes	No	225	No	No
+ERR1513979	69	2	2-6 drinks a week	34.57	2	Yes	No	60.5	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	180	No	Yes
+ERR1513980	72	1	Less than 2 drinks a week	32.92	2	Yes	Yes	66	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	204	No	Yes
+ERR1513981	85	1	Less than 2 drinks a week	21.63	0	Yes	Yes	64.5	47.6	Seattle, WA	-122.3	Yes	Yes	Yes	No	NA	White	female	No	No	128	No	Yes
+ERR1513983	72	0	None	25.84	2	Yes	Yes	67	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	No	No	165	No	No
+ERR1513984	83	2	1 drink a day	17.47	1	Yes	Yes	65	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	Yes	No	105	No	Yes
+ERR1513985	86	1	Less than 2 drinks a week	34.33	0	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	200	Yes	Yes
+ERR1513986	75	2	1 drink a day	23.03	2	Yes	No	63	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	No	No	130	No	Yes
+ERR1513987	73	2	1 drink a day	24.59	1	Yes	No	67	47.6	Seattle, WA	-122.3	Yes	NA	No	No	NA	White	male	Yes	No	157	No	Yes
+ERR1513988	61	2	2-6 drinks a week	22.31	2	Yes	No	64	47.6	Seattle, WA	-122.3	Yes	No	Yes	No	NA	White	female	No	No	130	No	Yes
+ERR1513989	67	2	2-6 drinks a week	25.99	2	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	male	No	No	176	Yes	Yes
+ERR1513990	53	1	Less than 2 drinks a week	32.44	2	Yes	No	64	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	189	No	Yes
+ERR1513991	54	1	Less than 2 drinks a week	28.03	1	Yes	Yes	71	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	male	No	No	201	No	Yes
+ERR1513992	73	1	Less than 2 drinks a week	30.22	1	Yes	No	67	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	male	NA	No	193	No	Yes
+ERR1513993	75	2	2 drinks a day	24.96	1	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	174	No	Yes
+ERR1513994	79	0	None	27.37	1	No	No	68	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	180	No	No
+ERR1513995	66	2	3 or more drinks a day	23.62	2	Yes	Yes	61	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	Yes	No	125	No	Yes
+ERR1513996	65	2	1 drink a day	29.99	2	Yes	Yes	70	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	Yes	No	209	No	Yes
+ERR1513997	58	1	Less than 2 drinks a week	29.19	2	Yes	No	68	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	192	No	Yes
+ERR1513998	79	1	Less than 2 drinks a week	25.06	1	Yes	Yes	67	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	male	No	No	160	No	Yes
+ERR1513999	77	2	2-6 drinks a week	NA	1	Yes	Yes	NA	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	male	Yes	No	NA	No	Yes
+ERR1514000	58	0	None	39.54	0	No	Yes	66	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	male	No	No	245	No	No
+ERR1514001	62	1	Less than 2 drinks a week	33.28	0	Yes	Yes	65	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	200	No	Yes
+ERR1514002	74	2	2-6 drinks a week	32.77	2	Yes	Yes	63	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	185	No	Yes
+ERR1514003	63	1	Less than 2 drinks a week	31.29	2	Yes	NA	69.5	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	215	NA	Yes
+ERR1514004	71	2	2-6 drinks a week	25.6	1	Yes	Yes	62	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	140	No	Yes
+ERR1514005	77	1	Less than 2 drinks a week	33.64	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	Yes	No	196	No	Yes
+ERR1514006	67	1	Less than 2 drinks a week	25.06	2	No	No	64	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	146	No	Yes
+ERR1514007	72	2	2 drinks a day	24.07	2	Yes	Yes	69	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	male	Yes	No	163	No	Yes
+ERR1514008	61	1	Less than 2 drinks a week	44.99	0	Yes	No	62.5	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	No	No	250	No	Yes
+ERR1514009	59	1	Less than 2 drinks a week	36.49	0	Yes	Yes	68	47.6	Seattle, WA	-122.3	No	No	No	No	NA	White	female	No	No	240	No	Yes
+ERR1514010	71	1	Less than 2 drinks a week	24.44	1	Yes	Yes	63	47.6	Seattle, WA	-122.3	Yes	Yes	No	No	NA	White	female	No	No	138	No	Yes
+ERR1514011	74	1	Less than 2 drinks a week	30.81	2	Yes	Yes	74	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	male	No	No	240	No	Yes
+ERR1514012	66	1	Less than 2 drinks a week	41.96	2	Yes	No	66	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	No	No	260	Yes	Yes
+ERR1514013	74	1	Less than 2 drinks a week	34.44	1	Yes	No	65	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	Yes	No	207	No	Yes
+ERR1514014	63	1	Less than 2 drinks a week	27.48	0	Yes	Yes	57	47.6	Seattle, WA	-122.3	Yes	No	No	No	NA	White	female	Yes	No	127	No	Yes
+ERR1514015	76	1	Less than 2 drinks a week	29.18	2	Yes	Yes	64	47.6	Seattle, WA	-122.3	No	Yes	No	No	NA	White	female	No	No	170	Yes	Yes

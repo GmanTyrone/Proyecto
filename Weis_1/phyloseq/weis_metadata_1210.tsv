@@ -1,0 +1,25 @@
+ID	Entacapone	Sex	Age	Smoker	Calprotectin_greater_than_50	Constipation	Appendectomy	Gastrointestinal_symptoms	Disease_duration	Hoehn_Yahr_stage	Phenotype	Average_L_dopa_dose	Family_history_for_neurodegenerative_disorders
+IfmP02	no	Male	78	no	0	no	yes	NA	14	2	equivalent	1	no
+IfmP03	yes	Male	65	no	0	no	no	NA	139	3	hypokinetic rigid	3	no
+IfmP10	yes	Female	74	no	0	yes	no	pyrosis	108	2	hypokinetic rigid	1	yes
+IfmP13	yes	Male	66	no	1	no	no	NA	159	4	equivalent	2	no
+IfmP16	no	Female	70	no	0	no	yes	NA	39	3	hypokinetic rigid	1	no
+IfmP19	yes	Male	60	no	0	no	no	NA	84	3	hypokinetic rigid	1	yes
+IfmP20	yes	Male	69	no	1	no	no	pyrosis	57	3	equivalent	1	no
+IfmP01	no	Female	50	no	0	no	yes	NA	112	3	equivalent	2	yes
+IfmP07	yes	Female	74	no	1	yes	no	NA	75	2	equivalent	2	no
+IfmP12	no	Female	78	no	1	no	no	NA	99	4	equivalent	1	no
+IfmP14	no	Male	69	no	0	no	no	NA	147	3	equivalent	2	yes
+IfmP23	no	Male	81	no	0	no	yes	flatulence	36	3	tremor_dominant	2	no
+IfmP24	no	Female	74	no	1	no	yes	NA	72	2	equivalent	1	no
+IfmP31	no	Male	74	yes	1	no	no	NA	26	2	equivalent	1	yes
+IfmP36	yes	Female	77	no	1	yes	no	NA	87	2	hypokinetic rigid	2	no
+IfmP11	yes	Female	67	no	1	yes	no	intermittent abdominal pain	168	3	hypokinetic rigid	2	yes
+IfmP15	yes	Male	75	no	1	no	no	NA	159	4	hypokinetic rigid	2	no
+IfmP25	yes	Male	75	no	0	no	yes	NA	228	3	equivalent	2	no
+IfmP34	yes	Male	67	no	1	no	yes	NA	60	3	hypokinetic rigid	2	no
+IfmP35	no	Male	77	no	0	no	no	NA	48	4	equivalent	2	no
+IfmP38	no	Female	77	no	1	no	yes	NA	156	3	tremor_dominant	2	no
+IfmP30	no	Male	61	no	0	yes	no	Pyrosis	96	4	hypokinetic rigid	3	yes
+IfmP33	no	Male	62	no	0	yes	no	NA	24	2	tremor_dominant	1	no
+IfmP22	no	Female	67	no	1	no	yes	NA	144	3	hypokinetic rigid	2	no

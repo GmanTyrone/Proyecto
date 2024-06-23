@@ -1,0 +1,189 @@
+ko01100	A_Metabolic pathways
+ko01110	A_Biosynthesis of secondary metabolites
+ko01120	A_Microbial metabolism in diverse environments
+ko01200	A_Carbon metabolism
+ko01210	A_2-Oxocarboxylic acid metabolism
+ko01212	A_Fatty acid metabolism
+ko01230	A_Biosynthesis of amino acids
+ko01232	A_Nucleotide metabolism
+ko01250	A_Biosynthesis of nucleotide sugars
+ko01240	A_Biosynthesis of cofactors
+ko01220	A_Degradation of aromatic compounds
+ko00010	B_Glycolysis _ Gluconeogenesis
+ko00020	B_Citrate cycle (TCA cycle)
+ko00030	B_Pentose phosphate pathway
+ko00040	B_Pentose and glucuronate interconversions
+ko00051	B_Fructose and mannose metabolism
+ko00052	B_Galactose metabolism
+ko00053	B_Ascorbate and aldarate metabolism
+ko00500	B_Starch and sucrose metabolism
+ko00520	B_Amino sugar and nucleotide sugar metabolism
+ko00620	B_Pyruvate metabolism
+ko00630	B_Glyoxylate and dicarboxylate metabolism
+ko00640	B_Propanoate metabolism
+ko00650	B_Butanoate metabolism
+ko00660	B_C5-Branched dibasic acid metabolism
+ko00562	B_Inositol phosphate metabolism
+ko00190	C_Oxidative phosphorylation
+ko00195	C_Photosynthesis
+ko00196	C_Photosynthesis - antenna proteins
+ko00710	C_Carbon fixation in photosynthetic organisms
+ko00720	C_Carbon fixation pathways in prokaryotes
+ko00680	C_Methane metabolism
+ko00910	C_Nitrogen metabolism
+ko00920	C_Sulfur metabolism
+ko00061	D_Fatty acid biosynthesis
+ko00062	D_Fatty acid elongation
+ko00071	D_Fatty acid degradation
+ko00073	D_Cutin, suberine and wax biosynthesis
+ko00100	D_Steroid biosynthesis
+ko00120	D_Primary bile acid biosynthesis
+ko00121	D_Secondary bile acid biosynthesis
+ko00140	D_Steroid hormone biosynthesis
+ko00561	D_Glycerolipid metabolism
+ko00564	D_Glycerophospholipid metabolism
+ko00565	D_Ether lipid metabolism
+ko00600	D_Sphingolipid metabolism
+ko00590	D_Arachidonic acid metabolism
+ko00591	D_Linoleic acid metabolism
+ko00592	D_alpha-Linolenic acid metabolism
+ko01040	D_Biosynthesis of unsaturated fatty acids
+ko00230	E_Purine metabolism
+ko00240	E_Pyrimidine metabolism
+ko00250	F_Alanine, aspartate and glutamate metabolism
+ko00260	F_Glycine, serine and threonine metabolism
+ko00270	F_Cysteine and methionine metabolism
+ko00280	F_Valine, leucine and isoleucine degradation
+ko00290	F_Valine, leucine and isoleucine biosynthesis
+ko00300	F_Lysine biosynthesis
+ko00310	F_Lysine degradation
+ko00220	F_Arginine biosynthesis
+ko00330	F_Arginine and proline metabolism
+ko00340	F_Histidine metabolism
+ko00350	F_Tyrosine metabolism
+ko00360	F_Phenylalanine metabolism
+ko00380	F_Tryptophan metabolism
+ko00400	F_Phenylalanine, tyrosine and tryptophan biosynthesis
+ko00410	G_beta-Alanine metabolism
+ko00430	G_Taurine and hypotaurine metabolism
+ko00440	G_Phosphonate and phosphinate metabolism
+ko00450	G_Selenocompound metabolism
+ko00460	G_Cyanoamino acid metabolism
+ko00470	G_D-Amino acid metabolism
+ko00480	G_Glutathione metabolism
+ko00510	H_N-Glycan biosynthesis
+ko00513	H_Various types of N-glycan biosynthesis
+ko00512	H_Mucin type O-glycan biosynthesis
+ko00515	H_Mannose type O-glycan biosynthesis
+ko00514	H_Other types of O-glycan biosynthesis
+ko00532	H_Glycosaminoglycan biosynthesis - chondroitin sulfate _ dermatan sulfate
+ko00534	H_Glycosaminoglycan biosynthesis - heparan sulfate _ heparin
+ko00533	H_Glycosaminoglycan biosynthesis - keratan sulfate
+ko00531	H_Glycosaminoglycan degradation
+ko00563	H_Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+ko00601	H_Glycosphingolipid biosynthesis - lacto and neolacto series
+ko00603	H_Glycosphingolipid biosynthesis - globo and isoglobo series
+ko00604	H_Glycosphingolipid biosynthesis - ganglio series
+ko00511	H_Other glycan degradation
+ko00540	H_Lipopolysaccharide biosynthesis
+ko00542	H_O-Antigen repeat unit biosynthesis
+ko00541	H_O-Antigen nucleotide sugar biosynthesis
+ko00550	H_Peptidoglycan biosynthesis
+ko00552	H_Teichoic acid biosynthesis
+ko00571	H_Lipoarabinomannan (LAM) biosynthesis
+ko00572	H_Arabinogalactan biosynthesis - Mycobacterium
+ko00543	H_Exopolysaccharide biosynthesis
+ko00730	I_Thiamine metabolism
+ko00740	I_Riboflavin metabolism
+ko00750	I_Vitamin B6 metabolism
+ko00760	I_Nicotinate and nicotinamide metabolism
+ko00770	I_Pantothenate and CoA biosynthesis
+ko00780	I_Biotin metabolism
+ko00785	I_Lipoic acid metabolism
+ko00790	I_Folate biosynthesis
+ko00670	I_One carbon pool by folate
+ko00830	I_Retinol metabolism
+ko00860	I_Porphyrin metabolism
+ko00130	I_Ubiquinone and other terpenoid-quinone biosynthesis
+ko00900	J_Terpenoid backbone biosynthesis
+ko00902	J_Monoterpenoid biosynthesis
+ko00909	J_Sesquiterpenoid and triterpenoid biosynthesis
+ko00904	J_Diterpenoid biosynthesis
+ko00906	J_Carotenoid biosynthesis
+ko00905	J_Brassinosteroid biosynthesis
+ko00981	J_Insect hormone biosynthesis
+ko00908	J_Zeatin biosynthesis
+ko00903	J_Limonene degradation
+ko00907	J_Pinene, camphor and geraniol degradation
+ko01052	J_Type I polyketide structures
+ko00522	J_Biosynthesis of 12-, 14- and 16-membered macrolides
+ko01051	J_Biosynthesis of ansamycins
+ko01059	J_Biosynthesis of enediyne antibiotics
+ko01056	J_Biosynthesis of type II polyketide backbone
+ko01057	J_Biosynthesis of type II polyketide products
+ko00253	J_Tetracycline biosynthesis
+ko00523	J_Polyketide sugar unit biosynthesis
+ko01054	J_Nonribosomal peptide structures
+ko01053	J_Biosynthesis of siderophore group nonribosomal peptides
+ko01055	J_Biosynthesis of vancomycin group antibiotics
+ko00940	K_Phenylpropanoid biosynthesis
+ko00945	K_Stilbenoid, diarylheptanoid and gingerol biosynthesis
+ko00941	K_Flavonoid biosynthesis
+ko00944	K_Flavone and flavonol biosynthesis
+ko00942	K_Anthocyanin biosynthesis
+ko00943	K_Isoflavonoid biosynthesis
+ko00946	K_Degradation of flavonoids
+ko00901	K_Indole alkaloid biosynthesis
+ko00403	K_Indole diterpene alkaloid biosynthesis
+ko00950	K_Isoquinoline alkaloid biosynthesis
+ko00960	K_Tropane, piperidine and pyridine alkaloid biosynthesis
+ko00996	K_Biosynthesis of various alkaloids
+ko00232	K_Caffeine metabolism
+ko00965	K_Betalain biosynthesis
+ko00966	K_Glucosinolate biosynthesis
+ko00402	K_Benzoxazinoid biosynthesis
+ko00311	K_Penicillin and cephalosporin biosynthesis
+ko00332	K_Carbapenem biosynthesis
+ko00261	K_Monobactam biosynthesis
+ko00331	K_Clavulanic acid biosynthesis
+ko00521	K_Streptomycin biosynthesis
+ko00524	K_Neomycin, kanamycin and gentamicin biosynthesis
+ko00525	K_Acarbose and validamycin biosynthesis
+ko00401	K_Novobiocin biosynthesis
+ko00404	K_Staurosporine biosynthesis
+ko00405	K_Phenazine biosynthesis
+ko00333	K_Prodigiosin biosynthesis
+ko00254	K_Aflatoxin biosynthesis
+ko00998	K_Biosynthesis of various antibiotics
+ko00999	K_Biosynthesis of various plant secondary metabolites
+ko00997	K_Biosynthesis of various other secondary metabolites
+ko00362	L_Benzoate degradation
+ko00627	L_Aminobenzoate degradation
+ko00364	L_Fluorobenzoate degradation
+ko00625	L_Chloroalkane and chloroalkene degradation
+ko00361	L_Chlorocyclohexane and chlorobenzene degradation
+ko00623	L_Toluene degradation
+ko00622	L_Xylene degradation
+ko00633	L_Nitrotoluene degradation
+ko00642	L_Ethylbenzene degradation
+ko00643	L_Styrene degradation
+ko00791	L_Atrazine degradation
+ko00930	L_Caprolactam degradation
+ko00363	L_Bisphenol degradation
+ko00621	L_Dioxin degradation
+ko00626	L_Naphthalene degradation
+ko00624	L_Polycyclic aromatic hydrocarbon degradation
+ko00365	L_Furfural degradation
+ko00984	L_Steroid degradation
+ko00980	L_Metabolism of xenobiotics by cytochrome P450
+ko00982	L_Drug metabolism - cytochrome P450
+ko00983	L_Drug metabolism - other enzymes
+ko01010	M_Overview of biosynthetic pathways
+ko01060	M_Biosynthesis of plant secondary metabolites
+ko01061	M_Biosynthesis of phenylpropanoids
+ko01062	M_Biosynthesis of terpenoids and steroids
+ko01063	M_Biosynthesis of alkaloids derived from shikimate pathway
+ko01064	M_Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+ko01065	M_Biosynthesis of alkaloids derived from histidine and purine
+ko01066	M_Biosynthesis of alkaloids derived from terpenoid and polyketide
+ko01070	M_Biosynthesis of plant hormones
